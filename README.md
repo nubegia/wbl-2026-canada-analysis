@@ -9,6 +9,6 @@ Each question from the input spreadsheet is processed to produce:
 - A legally grounded structured answer (A0)
 - Citations and links to primary sources
 - Confidence and latency metrics
-- An independent evaluator verdict (B5) including justification, corrected answer, and confidence
+- An independent evaluator verdict including justification, corrected answer, and confidence
 
 Outputs are exported to both **CSV** and **Excel** for downstream scoring and visualization, and the same logic powers an optional Streamlit interface (Task C) for interactive inspection, filtering, and export.
