@@ -1,4 +1,3 @@
-# wbl-2026-canada-analysis
 
 # wbl-2026-canada-analysis
 
