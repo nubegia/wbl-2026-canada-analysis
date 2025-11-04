@@ -11,4 +11,4 @@ Each question from the input spreadsheet is processed to produce:
 - Confidence and latency metrics
 - An independent evaluator verdict including justification, corrected answer, and confidence
 
-Outputs are exported to both **CSV** and **Excel** for downstream scoring and visualization, and the same logic powers an optional Streamlit interface (Task C) for interactive inspection, filtering, and export.
+Outputs are exported to both **CSV** and **Excel**.
